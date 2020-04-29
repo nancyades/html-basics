@@ -1,0 +1,56 @@
+.body{
+    margin: 0;
+}.header{
+    height: 80px;
+}
+
+.header-block{
+    background: yellow;
+    width: 650px;
+    margin: 0 auto;
+}
+.header-block .logo{
+    width: 150px;
+    float: left;
+}
+.header-block .menu{
+    width: 490px;
+    float: left;
+}
+.menu ul{
+     text-decoration: none;
+}
+.menu ul li{
+    list-style-type: none;
+    float: left;
+    margin: 10px 17px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.menu ul li:hover{
+    color: red;
+}
+.slider{
+    background: rgb(18, 21, 230);
+}
+.slider-block{
+    background: indigo;
+    width: 650px;
+    margin: 0 auto;
+}
+.content{
+    background: gold;
+}
+.content-block{
+    background: lightseagreen;
+    width: 650px;
+    margin: 0 auto;
+}
+.footer{
+    background: deeppink;
+}
+.footer-block{
+    background: rgb(69, 235, 28);
+    width: 650px;
+    margin: 0 auto;
+}
