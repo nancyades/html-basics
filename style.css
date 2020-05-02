@@ -31,26 +31,51 @@
     color: red;
 }
 .slider{
-    background: rgb(18, 21, 230);
+    height: 530px;
 }
 .slider-block{
-    background: indigo;
+    background: rgb(228, 28, 111);
     width: 650px;
     margin: 0 auto;
+    text-align: center;
+    padding-top: 80px;
+    align-self: center;
+    padding-bottom: 180px;
+}
+.button{
+    align-self: center;
+}
+.slider-block h2{
+    font-size: 20px;
+    align: center;
+    margin-top: 110px;
+    color: ivory;
+}
+.slider-block p{
+    font-size: 18px;
+    color: ivory;
 }
 .content{
-    background: gold;
+    height: 80px;
 }
 .content-block{
-    background: lightseagreen;
     width: 650px;
     margin: 0 auto;
+    text-align: center;
+}
+.content-block h3{
+     color: rgba(3, 0, 1, 0.815);
+     height: 0px;
+}
+.content-block h5{
+     margin-bottom: 200px;
+     color: mediumblue;
 }
 .footer{
-    background: deeppink;
+    height: 40px;
 }
 .footer-block{
-    background: rgb(69, 235, 28);
     width: 650px;
     margin: 0 auto;
+    text-align: center;
 }
